@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcsoc032",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many times?",
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

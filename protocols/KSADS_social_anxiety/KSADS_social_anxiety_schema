@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-social_anxiety/master/protocols/KSADS_social_anxiety/KSADS_social_anxiety_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "KSADS_social_anxiety_schema",
+    "skos:prefLabel": "Social Anxiety",
+    "schema:description": "Social Anxiety section for KSADS interview",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS-social_anxiety/master/protocols/KSADS_social_anxiety/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "social_anxiety",
+                "isAbout": "social_anxiety",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "social_anxiety"
+        ],
+        "shuffle": false
+    }
+}

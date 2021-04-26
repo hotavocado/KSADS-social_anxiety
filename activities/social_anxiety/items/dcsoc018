@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcsoc018",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Why were you afraid or uncomfortable to be in these situations?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

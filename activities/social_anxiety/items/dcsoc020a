@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcsoc020a",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Code (social situation):",
+    "schema:description": "CODE RESPONSE",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
